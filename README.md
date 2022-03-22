@@ -9,7 +9,7 @@ Full documentation https://
 ### Install
 
 ```
-$ git clone git@github.com:.git
+$ git clone git@github.com:blackluv/remix-bscscan-plugins.git
 
 $ yarn
 
