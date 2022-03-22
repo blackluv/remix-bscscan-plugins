@@ -4,7 +4,7 @@
   "license": "ISC",
   "description": "A plugin to verify contracts in bscscan",
   "author": "YummyDAO",
-  "dependencies": 
+  "dependencies":{ 
     "@remixproject/plugin": "^0.3.19",
     "@remixproject/plugin-api": "^0.3.19",
     "@remixproject/plugin-utils": "^0.3.19",
