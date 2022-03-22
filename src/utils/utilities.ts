@@ -8,6 +8,8 @@ export const getEtherScanApi = (network: string) => {
     : `https://api.bscscan.com`
 }
 
+//To adjust the network types
+
 export const getNetworkName = async (client: RemixClient) => {
   const network = await client.call("network", "detectNetwork")
   if (!network) {
