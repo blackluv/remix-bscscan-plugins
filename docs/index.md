@@ -6,7 +6,7 @@ The Remix BSCscan plugin allow you to verify smart contracts in BSCscan.
 
 Click on the plugin icon.
 Click connect to a Local plugin.
-Add the plugin url '' and name Bscscan verify.
+Add the plugin url 'https://remix-bscscan-plugins.vercel.app/' and name Bscscan verify.
 Now click okay and enjoy your bsc contract verifier.
 
 ## How to verify smart contracts

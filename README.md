@@ -4,7 +4,7 @@ A plugin to verify contracts in Bscscan
 
 [![CircleCI](https://circleci.com/gh/Machinalabs/remix-etherscan-plugin.svg?style=svg)](https://circleci.com/)
 
-Full documentation https://
+Full documentation https://yummydao.gitbook.io/remix-bscscan-plugin/
 
 ### Install
 
