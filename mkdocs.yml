@@ -1,0 +1,4 @@
+site_name: Remix Bscscan
+nav:
+    - Home: index.md
+theme: readthedocs
