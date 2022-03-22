@@ -6,7 +6,7 @@ The Remix BSCscan plugin allow you to verify smart contracts in BSCscan.
 
 Click on the plugin icon.
 Click connect to a Local plugin.
-Add the plugin url '' and name Bscverifier.
+Add the plugin url '' and name Bscscan verify.
 Now click okay and enjoy your bsc contract verifier.
 
 ## How to verify smart contracts
@@ -17,4 +17,4 @@ Once the contracts are compiled, go to the BSCscan plugin and you can select the
 
 ## Issues
 
-If you have any issues, please feel free to create an issue in our [Github repository](https://github.com//issues).
+If you have any issues, please feel free to create an issue in our [Github repository](https://github.com/blackluv/remix-bscscan-plugins/issues).

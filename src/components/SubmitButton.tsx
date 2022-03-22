@@ -28,7 +28,7 @@ export const SubmitButton: React.FC<Props> = ({
           />
           Verifying...Please wait 
           Give us a star on github
-          [Github repository](https://github.com//issues)
+          [Github repository](https://github.com/blackluv/remix-bscscan-plugins)
         </div>
       )}
     </button>
