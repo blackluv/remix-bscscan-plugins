@@ -3,12 +3,12 @@ import axios from 'axios'
 type RemixClient = PluginClient
 
 export const getEtherScanApi = (network: string) => {
-  return network === "Custom (97)"
-    ? `https://api-testnet.bscscan.com/api`
-    : `https://api.bscscan.com`
+  return network === "Custom (56)"
+    ? `https://api.bscscan.com`
+    : `https://api-testnet.bscscan.com/api`
 }
 
-//To adjust the network types
+// To adjust the network types
 
 export const getNetworkName = async (client: RemixClient) => {
   const network = await client.call("network", "detectNetwork")
